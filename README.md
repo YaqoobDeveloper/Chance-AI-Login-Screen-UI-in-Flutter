@@ -1,17 +1,84 @@
-# Chance-AI-Login-Screen-UI-in-Flutter
+# Chance AI Login Screen UI in Flutter 📱✨
 
-A new Flutter project.
+A modern and clean **Chance AI-inspired login screen UI** built with Flutter. This project focuses on creating a polished, minimal, and responsive authentication interface inspired by modern AI applications.
 
-## Getting Started
+## 🚀 Demo & Project
 
-This project is a starting point for a Flutter application.
+▶️ **Watch on YouTube:** [Chance AI Login Screen UI Demo](https://youtube.com/shorts/VeWrom7E0VQ?si=ckamoxRwdb8qLC9y)
 
-A few resources to get you started if this is your first Flutter project:
+🌐 **View Project:** [yaqoobdeveloper.com](https://yaqoobdeveloper.com/projects/chance-ai-login-screen-flutter)
+
+💻 **GitHub Repository:** [Chance AI Login Screen UI in Flutter](https://github.com/YaqoobDeveloper/Chance-AI-Login-Screen-UI-in-Flutter)
+
+## 📸 Preview
+
+<img width="878" height="827" alt="Chance AI Login Screen UI in Flutter" src="https://github.com/user-attachments/assets/b4864fbe-d033-4670-b243-85eafbfb9e84" />
+
+## ✨ Features
+
+- 🔐 Modern login screen UI
+- 🤖 Chance AI-inspired design
+- 🎨 Clean and minimal interface
+- 📱 Responsive Flutter layout
+- ✨ Smooth UI interactions
+- 🧩 Reusable Flutter widgets
+- ⚡ Lightweight and fast UI
+- 📐 Adaptive layout for different screen sizes
+
+## 🛠️ Built With
+
+- **Flutter 3.47.2**
+- **Dart**
+
+## 📋 Requirements
+
+- Flutter **3.47.2** or compatible version
+- Dart SDK included with Flutter
+- Android Studio or VS Code
+- Xcode for iOS development
+
+## 📂 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YaqoobDeveloper/Chance-AI-Login-Screen-UI-in-Flutter.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd Chance-AI-Login-Screen-UI-in-Flutter
+```
+
+### 3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the app
+
+```bash
+flutter run
+```
+
+## 📚 Flutter Resources
+
+If you're new to Flutter, check out these resources:
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- [Flutter Learning Resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Created By
+
+### Yaqoob Developer
+
+Flutter Developer & YouTuber
+
+▶️ **Watch on YouTube:** [Chance AI Login Screen UI Demo](https://youtube.com/shorts/VeWrom7E0VQ?si=ckamoxRwdb8qLC9y)
+
+▶️ **YouTube:** [@yaqoob_developer](https://youtube.com/@yaqoob_developer)
+
+⭐ If you find this project useful, consider giving the repository a **star**!
